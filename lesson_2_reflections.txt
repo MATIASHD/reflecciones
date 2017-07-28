@@ -1,0 +1,5 @@
+cuando inicializa un respositorio se descarga una carpeta llamada .git que se encuentra oculta
+y puede verla desde git bash con el comando "git ls -a" o "git status".
+
+Es necesario hacerlo para crear un repositorio y que se descarguen todos los archivos necesario para 
+realizar la sincronizacion

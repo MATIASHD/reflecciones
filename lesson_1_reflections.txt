@@ -1,0 +1,14 @@
+teniendolo de forma sistematizada, archivada, detallada, disponible y accesible
+
+cont. versiones: 	commit manualmente y  commit auto.
+pro 		puedes saber y elegir cuando hacerlo -- Sabes que siempre tener un respaldo proximo
+contras		que no se pudo a ver guardado algo   -- Que tengas puntos de contro inecesario
+
+google docs: fue pensado para procesar texto y realizar todo lo que se necista en un mismo archivo
+por lo que no es necesario anexar algun archivo (sin tener en cuenta los super vinculo).
+
+GIT: git fue pensado para programadores por lo que un programa necesita de varios archivos para funcionar
+
+El control de versiones, lo utilizaria por cada vez que se que el programa funciona correctamente y asi me sentire mas libre para seguir e cometer errores
+
+para empezar a guardar todos mis proyectos
