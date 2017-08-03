@@ -3,3 +3,25 @@ y puede verla desde git bash con el comando "git ls -a" o "git status".
 
 Es necesario hacerlo para crear un repositorio y que se descarguen todos los archivos necesario para 
 realizar la sincronizacion
+
+crear y probar, toda la funcion para luego hacer commit
+
+Me serviria para realizar pruebas paralelas y comprobar hipotesis d la cual no estoy seguro.
+En caso de ser sactifactorio o supere  las expectativas, posteriormente ser añadido 
+al proyecto principal.
+
+Ayudan para saber donde uno esta parado, que contenido tienen cada una de esas 
+sucursales, y como seguir, segun lo que quiera hacer.
+
+El resultado se resume en unir las implementacion adicionales  para agregar caracterisca al proyecto principal
+la forma en que se presenta el diagrama, es la correcta, para poder seguir 
+y no perder el hilo al proyecto.
+
+las combinaciones automaticas, son buenas en facilidad y rapidez para unir la ramificcion.
+La contra es que no siempre ueda como queremos, se fusionaron de forma erronea y no siempre l percibimos
+Las convinaciones manual, son bueas cuando queres ver y saber que dejamos y que descartamos, tenemos mayor 
+control sobre la fusion. Lo malo es que no puede llevar tiempo y puede resultar tedioso porque nos 
+invita a pensar las funciones y que hace cada una y cual dejar o descartas, sino lo hicimos nosotros.
+
+
+

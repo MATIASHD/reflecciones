@@ -1,1 +1,14 @@
-Cunado necesito trabajar en varios lados, sobre el mismo proyecto. CUnado otros trabajan conmigo y estamos lejos.
+Cunado necesito trabajar en varios lados, sobre el mismo proyecto.
+ CUnado otros trabajan conmigo y estamos lejos.
+
+Porque tendremos mas control sobre los commit, y asi sabremos como hacerlo, y de que hacemos
+
+difurcacion: solo se da dentro de la web de githuby sirve para clonar un repositorio y hacerme de el y utilizarlo como si fuera mio 
+clon: Es realizar una replica exacta de repositorio desde git a github y viceversa, sea git (mi pc) y github(la web o nube)
+-branch: se utiliza cuando queres desviarte del proyecto original y probar algunas funcionalidades sin comprmeter el proyecto
+difurcacion, lo usaria para utilizar el proyecto de un colega como si fuera mio, ya que no podre modificar el 
+de el 
+-clones: utilizare cuando deseo trabajar en algun proyecto de tercero o mio, 
+bajarlo a la pc
+-forks: cuando quiero utilizar el proyecto de un tercero en mi repositorio
+
